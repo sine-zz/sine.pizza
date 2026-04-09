@@ -1,0 +1,13 @@
+
+alias df="df -h"
+alias dusha="du -sh ./*"
+alias dush="du -sh"
+alias cl="clear"
+alias lsl="ls -lh"
+alias lsla="ls -la"
+alias home="cd ~/"
+alias m="free -m"
+alias e="exit"
+alias bashrc="vim ~/.bashrc"
+alias reloadbashrc="source ~/.bashrc"
+alias pubip="~/opt/scripts/pubip"
